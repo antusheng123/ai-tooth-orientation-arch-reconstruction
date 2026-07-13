@@ -1,0 +1,6 @@
+numpy>=1.26
+plotly>=5.20
+scipy>=1.11
+streamlit>=1.32
+torch>=2.1
+trimesh>=4.0
