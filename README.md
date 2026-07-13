@@ -33,7 +33,6 @@ docs/
   final_report.pdf
   phase1_summary.md
   phase2_summary.md
-  reports_archive/
 
 assets/
   screenshots/
@@ -43,6 +42,12 @@ assets/
 ## Datasets
 
 Dataset archives are not committed to Git. Download or place them outside the repository, then update the hard-coded paths or refactor them into command-line arguments before running experiments.
+
+Dataset download folder:
+
+```text
+https://drive.google.com/drive/folders/1P1cKND2WvD7YxVdwWvvNTcFGx6xn3aLf?usp=drive_link
+```
 
 Required raw datasets:
 
