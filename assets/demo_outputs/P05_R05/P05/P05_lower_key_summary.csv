@@ -1,0 +1,11 @@
+key,landmark_count,classes,centroid_x,centroid_y,centroid_z
+1,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-3.775869846343994,-18.082752227783203,12.142504692077637
+2,10,"Cusp:5, Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-21.773929595947266,1.653871774673462,4.367255210876465
+3,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",13.389266967773438,-13.025793075561523,9.718057632446289
+4,9,"Cusp:4, Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",19.624696731567383,4.721242904663086,3.624453544616699
+5,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",1.411466360092163,-18.110401153564453,12.514394760131836
+6,7,"Cusp:2, Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",15.643366813659668,-6.499441623687744,6.8182902336120605
+7,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-9.887410163879395,-16.865901947021484,11.13228702545166
+8,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",7.687741279602051,-16.889392852783203,11.227316856384277
+9,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-15.322664260864258,-13.196812629699707,9.23060417175293
+10,8,"Cusp:3, Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-17.555923461914062,-5.599842071533203,6.882997989654541

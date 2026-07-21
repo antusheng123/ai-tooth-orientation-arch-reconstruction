@@ -1,0 +1,8 @@
+key,landmark_count,classes,centroid_x,centroid_y,centroid_z
+1,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-3.509923219680786,-25.052303314208984,12.329437255859375
+2,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",19.024499893188477,-20.622140884399414,14.990521430969238
+3,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-11.479391098022461,-23.011938095092773,11.932065963745117
+4,10,"Cusp:5, Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-19.809589385986328,5.341826438903809,6.305202007293701
+5,10,"Cusp:5, Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-21.529359817504883,16.673049926757812,3.134101152420044
+6,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-16.482219696044922,-16.45953941345215,10.949440002441406
+7,7,"Cusp:2, Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-18.248884201049805,-8.290295600891113,10.043931007385254

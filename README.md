@@ -29,6 +29,9 @@ phase2_arch_curve_reconstruction/
   pipeline2_maxillary/   Final maxillary-oriented pipeline
   legacy/                Earlier curve reconstruction methods
 
+clinical_samples/
+  P05_R05/                Standalone P05/R05 clinical sample meshes and landmarks
+
 docs/
   final_report.pdf
   phase1_summary.md
@@ -36,7 +39,7 @@ docs/
 
 assets/
   screenshots/
-  demo_outputs/
+  demo_outputs/P05_R05/  Curated P05/R05 CSV, JSON, and combined HTML outputs
 ```
 
 ## Datasets
@@ -87,6 +90,31 @@ phase2_arch_curve_reconstruction/legacy/pipeline1_posterior_old/best_landmark_mo
 Phase 1 predicts Mesial, Distal, Inner/Lingual, Outer/Buccal, and Facial landmarks for individual teeth. The final report records a Mean Euclidean Error of 1.2426 mm and Success Rate@2mm of 87.55%.
 
 Phase 2 reconstructs dental arch curves from a fixed 16-token FDI sequence using masked Transformer models and 3D B-Spline interpolation. The final report records 1.093 mm MEE for the maxillary trajectory and 1.272 mm MEE for the mandibular trajectory.
+
+## P05/R05 Clinical Samples
+
+Standalone P05/R05 clinical test samples are collected in:
+
+```text
+clinical_samples/P05_R05/
+```
+
+The related demo outputs are collected in:
+
+```text
+assets/demo_outputs/P05_R05/
+```
+
+The clinical adapter and visualization scripts are:
+
+```text
+phase2_arch_curve_reconstruction/clinical_p05_inference.py
+phase2_arch_curve_reconstruction/visualize_clinical_landmarks.py
+phase2_arch_curve_reconstruction/combine_clinical_prediction_visualization.py
+```
+
+See `clinical_samples/P05_R05/README.md` for the sample layout, verified
+clinical key-to-FDI mappings, and reproduction commands.
 
 ## Notes
 

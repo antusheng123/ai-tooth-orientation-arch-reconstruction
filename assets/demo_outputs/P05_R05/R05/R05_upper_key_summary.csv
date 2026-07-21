@@ -1,0 +1,6 @@
+key,landmark_count,classes,centroid_x,centroid_y,centroid_z
+1,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-6.274708271026611,-22.127981185913086,10.711112022399902
+2,9,"Cusp:4, Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",24.685911178588867,5.643293380737305,8.856633186340332
+3,5,"Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",1.565068006515503,-22.167999267578125,11.92304801940918
+4,7,"Cusp:2, Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",16.35652732849121,-9.32534122467041,12.322318077087402
+5,8,"Cusp:3, Distal:1, Facial:1, InnerPoint:1, Mesial:1, OuterPoint:1",-30.191650390625,5.062305927276611,4.021329879760742
